@@ -1,16 +1,16 @@
 {
-"name": "bsowin",
-"theme": "bsowin",
-"version": "2.7.1",
-"description": "bsowin สมัครเว็บไซต์พนันเว็บตรง ไม่มีขั้นต่ำ แจกเครดิตฟรี",
-"keywords": [
-"bsowin",
-"bsowin เครดิตฟรี",
-"bsowin ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/bsowin",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "bsowin",
+  "theme": "bsowin",
+  "version": "2.8.0",
+  "description": "bsowin สมัครเว็บไซต์พนันเว็บตรง ไม่มีขั้นต่ำ แจกเครดิตฟรี",
+  "keywords": [
+    "bsowin",
+    "bsowin เครดิตฟรี",
+    "bsowin ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/bsowin",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
